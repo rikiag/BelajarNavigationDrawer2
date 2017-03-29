@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Muslim`s Ibadah Assistant</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="longText">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id sapien vel turpis interdum molestie. Etiam in pharetra nisi. Pellentesque eget ligula at nisl blandit finibus. Praesent enim nunc, ornare sagittis justo ac, fermentum consectetur felis. Phasellus accumsan cursus faucibus. Suspendisse vehicula sodales est. Etiam aliquam commodo egestas. Aliquam at semper augue. Nunc feugiat lectus ut lorem mattis, eget mattis tortor condimentum. Ut venenatis iaculis enim, id facilisis lectus laoreet eu. In non arcu venenatis, malesuada dolor ut, mattis purus. Praesent imperdiet ac erat et blandit. Phasellus nisi magna, feugiat quis mi eget, fringilla convallis ipsum. Duis rhoncus eu purus in varius. Mauris vitae eros sit amet risus commodo commodo in non massa. Donec sed nibh dignissim turpis tincidunt fringilla.</string>
+</resources>
